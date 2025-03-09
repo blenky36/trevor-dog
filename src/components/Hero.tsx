@@ -18,7 +18,7 @@ export const Hero = () => {
           <section className="text-gray-600 body-font">
             <div className="container mx-auto">
               <fieldset className="flex flex-wrap -m-4 text-center border-gray-200 border-2 rounded">
-                <legend className="p-4">My Age</legend>
+                <legend className="p-4g">My Age</legend>
                 <div className="p-2 sm:p-4 w-1/3">
                   <h2 className="title-font font-medium sm:text-4xl text-3xl text-gray-900">
                     {years}
