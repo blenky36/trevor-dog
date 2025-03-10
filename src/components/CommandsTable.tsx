@@ -8,7 +8,7 @@ const COMMANDS = [
   { command: "Bed", description: "Go into crate", rating: 2, notes: "It usually takes a few repetitions of this as I don't always want to go in. Don't give me any other option and I'll go in of my own choice" },
   { command: "Get it", description: "Retrieve something", rating: 2, notes: "I'm starting to understand this is for food and toys/balls now. I will always go for food. I don't always go and get toys and sometimes I forget to bring them back" },
   { command: "Side", description: "Walk to heel on left", rating: 1.5, notes: "I'm working on paying attention to this and to you as we do it without getting distracted. Please keep me on the left side" },
-  { command: "Walk on", description: "Move off", rating: 2.5, notes: "Say this when we're on a walk and I've sat to wait for a door or to cross a road" },
+  { command: "Walk on", description: "Move off", rating: 2.5, notes: "Say this when we're on a walk and I've sat to wait for a door, or to cross a road" },
   { command: "In", description: "Come in from the garden", rating: 1.5, notes: "Pointing at the door helps" },
   { command: "Free", description: "No more commands expected, do what you want", rating: 1, notes: "Relatively new command I don't fully understand yet" },
   { command: "Down", description: "Lie down", rating: 1, notes: "Command I'm starting to understand with food assistance" },

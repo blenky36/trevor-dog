@@ -21,7 +21,7 @@ export const General = () => {
           on&apos;. If I pull on the lead stop until it goes slack and then &apos;walk
           on&apos;
         </li>
-        <li>If I get overstimulated and really bitey then put me in my crate to calm down</li>
+        <li>If I get overstimulated and really bitey then tell me to go to bed (in my crate) to calm down</li>
         <li>I like to sleep in outstretched legs</li>
         <li>When playing I like to bring a toy to kill in your lap our outstretched legs</li>
         <li>I like to lick hands, particularly after you cook or eat</li>
