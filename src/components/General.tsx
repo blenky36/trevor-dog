@@ -7,7 +7,7 @@ export const General = () => {
         General Information
       </h1>
       <ul className="list-disc list-inside pl-5">
-        <li>I&apos;m a happy dog that loves food and exploring</li>
+        <li>I&apos;m a happy dog that loves food and exploring. I have a calm and gentle temperament</li>
         <li>
           I&apos;m quite a quiet dog and don&apos;t bark unless I&apos;m cross
           about being ignored
@@ -23,8 +23,9 @@ export const General = () => {
         </li>
         <li>If I get overstimulated and really bitey then tell me to go to bed (in my crate) to calm down</li>
         <li>I like to sleep in outstretched legs</li>
-        <li>When playing I like to bring a toy to kill in your lap our outstretched legs</li>
+        <li>When playing I like to bring a toy to kill in your lap our outstretched legs. I also like to chase balls with a toy in my mouth</li>
         <li>I like to lick hands, particularly after you cook or eat</li>
+        <li>I am registered at Tamworth CompanionCare vets in Pets at Home with Animal Friends insurance</li>
       </ul>
     </div>
   );
